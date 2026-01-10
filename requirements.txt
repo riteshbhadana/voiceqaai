@@ -1,0 +1,12 @@
+streamlit
+torch
+sentence-transformers
+faiss-cpu
+pdfplumber
+transformers
+accelerate
+sentencepiece
+numpy
+gtts
+pypdf
+scikit-learn
